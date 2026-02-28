@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zeyad Ahmed Mohmed
+# Hi 👋, I'm Zeyad Ahmed Nour
 ![Banner](https://c.tenor.com/_your-gif-or-image-link.gif)  
 👨‍💻 Flutter Developer from Egypt 🇪🇬  
 📱 I build **beautiful mobile apps** with Flutter & Firebase | 🚀 Always learning and improving  
@@ -27,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Algorithm & Data Structure](https://img.shields.io/badge/Algorithm%20%26%20DS-F2A900?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
