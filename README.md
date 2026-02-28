@@ -50,5 +50,5 @@
 
 ## 💬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeyad%20Nour-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-nour-b248553a2)
-[![Email](https://img.shields.io/badge/Email-Zezoflutter2025@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoflutter2025@gmail.com)
-[![Email](https://img.shields.io/badge/Email-Zezoflutter2025@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoa8115@gmail.com.com)
+[![Email](https://img.shields.io/badge/Email-zezoflutter2025@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoflutter2025@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zezoa8115@gmail.com.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoa8115@gmail.com)
