@@ -31,6 +31,13 @@
 ---
 
 ## 📊 My GitHub Highlights
+![GitHub Profile](https://img.shields.io/badge/GitHub-zeyad--nour-181717?style=flat-square&logo=github&logoColor=white)
+![Top Language](https://img.shields.io/badge/Top_Language-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Most Used Tool](https://img.shields.io/badge/Tool-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+## 📊 My GitHub Highlights
 ![Profile](https://img.shields.io/badge/GitHub-zeyad--nour-181717?style=flat-square&logo=github&logoColor=white)
 ![Top Language](https://img.shields.io/badge/Top_Language-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Most Used Tool](https://img.shields.io/badge/Tool-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
