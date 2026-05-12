@@ -9,7 +9,7 @@
 🌱 Currently diving deep into **Flutter, Firebase & API Integrations**  
 💬 Ask me about **Flutter, Dart, Firebase, or Mobile App Architecture**  
 📫 Reach me: [zezoflutter2025@gmail.com](mailto:zezoflutter2025@gmail.com)
-🔗 LinkedIn: [Zeyad Nour](https://www.linkedin.com/in/zeyad-nour-b248553a2)
+🔗 LinkedIn: [Zeyad Nour](https://www.linkedin.com/in/zeyad-nour-19a435409)
 🐼 Fun fact: I love **turning ideas into beautiful apps**  
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 ## 💬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeyad%20Nour-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-nour-b248553a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeyad%20Nour-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-nour-19a435409)
 [![Instagram](https://img.shields.io/badge/Instagram-ziyad__ahmed.nour579-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ziyad_ahmed.nour579?utm_source=qr)  
 [![Email](https://img.shields.io/badge/Email-zezoflutter2025@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoflutter2025@gmail.com)
 [![Email](https://img.shields.io/badge/Email-zezoa8115@gmail.com.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoa8115@gmail.com)
